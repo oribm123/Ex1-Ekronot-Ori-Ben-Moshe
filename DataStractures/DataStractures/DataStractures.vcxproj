@@ -18,6 +18,15 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Queue.h" />
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Stack.h" />
+    <ClInclude Include="..\..\..\..\..\..\Downloads\Utils.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Part1Tester.cpp" />
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Part2Tester.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
