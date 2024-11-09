@@ -3,22 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\header\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:header\\LinkedList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\Queue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Downloads\\Queue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Downloads\\Stack.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,69 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "LinkedList.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\LinkedList.cpp",
               "RelativeDocumentMoniker": "DataStractures\\LinkedList.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\LinkedList.cpp",
               "RelativeToolTip": "DataStractures\\LinkedList.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T13:20:49.965Z",
+              "WhenOpened": "2024-11-09T13:59:42.296Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LinkedList.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\header\\LinkedList.h",
-              "RelativeDocumentMoniker": "header\\LinkedList.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\header\\LinkedList.h",
-              "RelativeToolTip": "header\\LinkedList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T12:44:40.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Stack.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\Stack.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Stack.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\Stack.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Stack.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T12:42:16.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Queue.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Queue.cpp",
               "RelativeDocumentMoniker": "DataStractures\\Queue.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Queue.cpp",
               "RelativeToolTip": "DataStractures\\Queue.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T12:04:14.847Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Queue.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\Queue.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Queue.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\Queue.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Queue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T12:04:18.036Z"
+              "WhenOpened": "2024-11-09T12:04:14.847Z",
+              "EditorCaption": ""
             }
           ]
         }

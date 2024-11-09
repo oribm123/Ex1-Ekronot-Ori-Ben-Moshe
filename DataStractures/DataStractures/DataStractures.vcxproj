@@ -20,15 +20,15 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\..\..\Downloads\Queue.h" />
-    <ClInclude Include="..\..\..\..\..\..\Downloads\Stack.h" />
     <ClInclude Include="..\..\..\..\..\..\Downloads\Utils.h" />
     <ClInclude Include="..\header\LinkedList.h" />
+    <ClInclude Include="..\header\Stack.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\..\Downloads\Part1Tester.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\Downloads\Part2Tester.cpp" />
     <ClCompile Include="LinkedList.cpp" />
+    <ClCompile Include="main2.cpp" />
     <ClCompile Include="Queue.cpp" />
+    <ClCompile Include="Stack.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

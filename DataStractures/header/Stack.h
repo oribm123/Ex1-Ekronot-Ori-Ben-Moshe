@@ -1,12 +1,12 @@
 #ifndef STACK_H
 #define STACK_H
-
 #include "LinkedList.h"
 
 /* a positive-integer value stack, with no size limit */
 typedef struct Stack
 {
-	// Complete Definition here
+	LinkedList* first;
+
 } Stack;
 
 void push(Stack* s, unsigned int element);
@@ -16,6 +16,5 @@ void initStack(Stack* s);
 void cleanStack(Stack* s);
 
 bool isEmpty(Stack* s);
-bool isFull(Stack* s);
 
 #endif // STACK_H
