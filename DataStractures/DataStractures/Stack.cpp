@@ -13,7 +13,7 @@ void push(Stack* s, unsigned int element) {
 int pop(Stack* s) {
     if (isEmpty(s)) {
         std::cout << "Stack is empty, cannot pop!" << std::endl;
-        return -1; // Indicating stack is empty
+        return -1; 
     }
     else {
         LinkedList* temp = s->first;

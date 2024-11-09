@@ -1,7 +1,13 @@
-﻿  Utils.cpp
-C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(12,16): warning C4018: '<': signed/unsigned mismatch
-C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(15,16): warning C4018: '<': signed/unsigned mismatch
+﻿  Queue.cpp
+  Stack.cpp
+  Utils.cpp
   main2.cpp
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(14,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(19,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\main2.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\main2.cpp(20,9): warning C4005: 'PURPLE': macro redefinition
+      C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\main2.cpp(14,9):
+      see previous definition of 'PURPLE'
+  
   Generating Code...
-C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(28,1): warning C4172: returning address of local variable or temporary : nums
   DataStractures.vcxproj -> C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\x64\Debug\DataStractures.exe

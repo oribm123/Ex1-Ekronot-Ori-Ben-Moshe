@@ -7,11 +7,12 @@
       "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\main2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Downloads\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A148EFE-7550-4787-AB45-8E6039395964}|DataStractures\\DataStractures.vcxproj|solutionrelative:DataStractures\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,33 +32,33 @@
               "RelativeDocumentMoniker": "DataStractures\\main2.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\main2.cpp",
               "RelativeToolTip": "DataStractures\\main2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAN4AAAAAAAAAAADwv/QAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-09T15:03:54.386Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Utils.h",
-              "DocumentMoniker": "C:\\Users\\Cyber_User\\Downloads\\Utils.h",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Downloads\\Utils.h",
-              "ToolTip": "C:\\Users\\Cyber_User\\Downloads\\Utils.h",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Downloads\\Utils.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-09T15:00:17.717Z",
+              "WhenOpened": "2024-11-09T15:30:28.309Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Stack.cpp",
+              "RelativeDocumentMoniker": "DataStractures\\Stack.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Stack.cpp",
+              "RelativeToolTip": "DataStractures\\Stack.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-09T15:23:18.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Utils.cpp",
               "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Utils.cpp",
               "RelativeDocumentMoniker": "DataStractures\\Utils.cpp",
               "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\Ekronot_HW\\ex1\\Ex1-Ekronot-Ori-Ben-Moshe\\DataStractures\\DataStractures\\Utils.cpp",
               "RelativeToolTip": "DataStractures\\Utils.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-09T15:00:15.238Z",
               "EditorCaption": ""
