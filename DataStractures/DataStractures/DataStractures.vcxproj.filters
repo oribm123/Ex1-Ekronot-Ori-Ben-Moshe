@@ -24,12 +24,21 @@
     <ClInclude Include="..\..\..\..\..\..\Downloads\Stack.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="..\header\LinkedList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Downloads\Part1Tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="Queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\header\LinkedList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\..\..\Downloads\Part2Tester.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

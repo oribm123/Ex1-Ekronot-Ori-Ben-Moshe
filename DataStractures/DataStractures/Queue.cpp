@@ -10,7 +10,7 @@ void initQueue(Queue* q, unsigned int size) {
 }
 
 void cleanQueue(Queue* q) {
-	delete(q->elements);
+	delete q->elements;
 	q->elements = NULL;
 	q->first = 0;
 	q->last = -1;
