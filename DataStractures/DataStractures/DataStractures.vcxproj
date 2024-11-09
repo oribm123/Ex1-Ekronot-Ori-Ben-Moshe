@@ -25,7 +25,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Downloads\Part1Tester.cpp" />
-    <ClCompile Include="..\..\..\..\..\..\Downloads\Part2Tester.cpp" />
+    <ClCompile Include="Queue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
@@ -113,6 +113,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\header</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
