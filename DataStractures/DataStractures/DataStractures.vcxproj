@@ -27,7 +27,7 @@
   <ItemGroup>
     <ClCompile Include="..\..\..\..\..\..\Downloads\Part1Tester.cpp" />
     <ClCompile Include="..\..\..\..\..\..\Downloads\Part2Tester.cpp" />
-    <ClCompile Include="..\header\LinkedList.cpp" />
+    <ClCompile Include="LinkedList.cpp" />
     <ClCompile Include="Queue.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
