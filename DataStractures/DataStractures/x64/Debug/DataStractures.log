@@ -1,2 +1,7 @@
-﻿  main2.cpp
+﻿  Utils.cpp
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(12,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(15,16): warning C4018: '<': signed/unsigned mismatch
+  main2.cpp
+  Generating Code...
+C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\DataStractures\Utils.cpp(28,1): warning C4172: returning address of local variable or temporary : nums
   DataStractures.vcxproj -> C:\Users\Cyber_User\Desktop\Ekronot_HW\ex1\Ex1-Ekronot-Ori-Ben-Moshe\DataStractures\x64\Debug\DataStractures.exe
